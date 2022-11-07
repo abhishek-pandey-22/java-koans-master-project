@@ -1,4 +1,4 @@
-## Quick Start
+## Quick Start to execute
 * Download and unarchive the contents of the most recent java-koans in development from:
 https://github.com/matyb/java-koans/archive/master.zip
 * Open a console (terminal) and cd to the directory you unarchived:
