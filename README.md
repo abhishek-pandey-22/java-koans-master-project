@@ -1,4 +1,4 @@
-# Java Koans 
+# Java Koans by Abhishek Pandey 
 
 [![Build Status](https://travis-ci.org/matyb/java-koans.png?branch=master)](https://travis-ci.org/matyb/java-koans)
 
